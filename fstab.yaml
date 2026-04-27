@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p153424-e1601770.adobeaemcloud.com/bin/franklin.delivery/milan-ey/repo-less/main"
+    url: "https://author-p153424-e1601691.adobeaemcloud.com/bin/franklin.delivery/milan-ey/repo-less/stage"
     type: "markup"
     suffix: ".html"
   
