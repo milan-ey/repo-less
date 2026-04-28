@@ -502,7 +502,7 @@ main[hidden] {
 
 /* ===== STAGE ENVIRONMENT MARKER ===== */
 body::before {
-  content: "STAGE ENV";
+  content: "STAGE BRANCH";
   position: fixed;
   top: 0;
   left: 0;
